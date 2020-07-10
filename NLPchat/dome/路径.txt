@@ -1,0 +1,1 @@
+pyinstaller -F F:\work\git-base\piano\MyPiano\NLPchat\dome\demo.py
